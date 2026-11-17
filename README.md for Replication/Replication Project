@@ -1,6 +1,7 @@
-## Article Title: "Climate change and U.S. agriculture: Accounting for multidimensional slope heterogeneity in panel data" 
-## Authors: Michael Keane and Timothy Neal
-## Replication materials given in Stata
-## Data provided in data/raw/ file in my repository
-## Packages needed in Rstudio: data.table and fixest
-## Script in the output/ file produces the first/main OLS regression model from the article
+##Article Title: "Climate change and U.S. agriculture: Accounting for multidimensional slope heterogeneity in panel data" 
+##Authors: Michael Keane and Timothy Neal
+##Replication materials given in Stata; if replicating in Stata, authors say to use version 12+
+##The script for the Table 1 OLS replication in the output/ file uses R version 4.6.1
+##Data provided in data/raw/ file in my repository
+##Packages needed in Rstudio: data.table and fixest
+##Script in the output/ file produces the first/main OLS regression model from the article
