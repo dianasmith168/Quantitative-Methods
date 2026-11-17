@@ -2,4 +2,5 @@
 ## Authors: Michael Keane and Timothy Neal
 ## Replication materials given in Stata
 ## Data provided in data/raw/ file in my repository
-## 
+## Packages needed in Rstudio: data.table and fixest
+## Script in the output/ file produces the first/main OLS regression model from the article
